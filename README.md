@@ -15,4 +15,6 @@
 * [Mande-Chain](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1vj5zd6uhnfsj383f0a3tfv3fr4cj4qgqvc8edj)
 * [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1qc9lnl38sv2mxvjtfjs76894efjf09l230emsm)
 * [Lava](https://lava.explorers.guru/validator/lava@valoper1cfrzh87l2hceqdd3lj9h7f6makqa5ugn8key78)
-* [Mars](https://explorer.stavr.tech/mars-testnet/staking/marsvaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugnzks26r)
+* [Namada](https://namada.explorers.guru/validators)
+
+* Wormholes
