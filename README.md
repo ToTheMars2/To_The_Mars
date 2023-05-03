@@ -5,7 +5,7 @@
 ## Mainnet
 * [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper1f4e4njyp65ruvgwrnk8qec6y2020thgdcaxw7j)
 * [Bostrom](https://ping.pub/bostrom/staking/bostromvaloper1n76f7tuq0kxf2ufjevlguqfc4xn4vfykflmhnn)
-
+* [Uptick](https://explorer.stavr.tech/uptick-mainnet/staking/uptickvaloper1qc9lnl38sv2mxvjtfjs76894efjf09l230emsm)
 
 ## Testnet
 * [Hypersing](https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugnkkyak8)
