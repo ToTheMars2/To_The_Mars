@@ -9,7 +9,7 @@
 
 ## Testnet
 * [Hypersing](https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugnkkyak8)
-* [Gitopia](https://gitopia.explorers.guru/validator/gitopiavaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugna9kpy9)
+* [Gitopia](https://explorer.gitopia.com/validators/gitopiavaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugna9kpy9)
 * [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1wqsfxrfxfde6lnjqt6efd8rcnhzzdsg9v3wsas)
 * [Androma](https://explorer.bccnodes.com/androma/staking/andrvaloper1elzwme63j5dx3gfuw0mdefcy92l0nr7as9snza)
 * [Mande-Chain](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1vj5zd6uhnfsj383f0a3tfv3fr4cj4qgqvc8edj)
