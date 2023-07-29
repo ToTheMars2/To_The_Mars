@@ -7,7 +7,7 @@
 * [Bostrom](https://ping.pub/bostrom/staking/bostromvaloper1n76f7tuq0kxf2ufjevlguqfc4xn4vfykflmhnn)
 * [Uptick](https://explorer.stavr.tech/uptick-mainnet/staking/uptickvaloper1qc9lnl38sv2mxvjtfjs76894efjf09l230emsm)
 * [Gitopia](https://gitopia.exploreme.pro/validator/gitopiavaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugna9kpy9)
-
+* [Composable](https://ping.pub/composable/staking/centaurivaloper1n76f7tuq0kxf2ufjevlguqfc4xn4vfykvm0lya)
 
 ## Testnet
 * [Hypersing](https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugnkkyak8)
