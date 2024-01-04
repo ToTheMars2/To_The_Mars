@@ -11,7 +11,7 @@
   
 * [Gitopia](https://gitopia.exploreme.pro/validator/gitopiavaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugna9kpy9)
   
-* [Composable](https://ping.pub/composable/staking/centaurivaloper1n76f7tuq0kxf2ufjevlguqfc4xn4vfykvm0lya)
+* [Composable](https://explorer.nodestake.top/composable/staking/centaurivaloper1n76f7tuq0kxf2ufjevlguqfc4xn4vfykvm0lya)
 
 ## Testnet
 * [Hypersing](https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugnkkyak8)
