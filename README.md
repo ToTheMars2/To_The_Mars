@@ -13,6 +13,8 @@
   
 * [Composable](https://ping.pub/composable/staking/centaurivaloper1n76f7tuq0kxf2ufjevlguqfc4xn4vfykvm0lya)
 
+* [Blockx](https://ping.blockxnet.com/blockx/staking/blockxvaloper1h09jt0s2v70kx4jwn3afp635zna6ree7lr7xaj)
+
 ## Testnet
 * [Hypersing](https://explorer.hypersign.id/hypersign-testnet/staking/hidvaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugnkkyak8)
   
