@@ -32,8 +32,12 @@
 <details>
   <summary><b>Testnets</b></summary>
 Quicksilver
+  
 Terittori
+
 Nibiru
+
 Source
+
 Nois
 </details>
