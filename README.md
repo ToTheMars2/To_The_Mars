@@ -31,6 +31,7 @@
 ## Took part
 <details>
   <summary><b>Testnets</b></summary>
+  
 Quicksilver
 Terittori
 Nibiru
