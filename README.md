@@ -21,6 +21,8 @@
 
 * [Blockx](https://explorer.tothemars.network/Blockx/staking/blockxvaloper1h09jt0s2v70kx4jwn3afp635zna6ree7lr7xaj)
 
+* [Kusama](https://telemetry.w3f.community/#/0xb0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe)
+
 ## Testnet
 * [Hypersing](https://explorer.tothemars.network/hypersign-testnet/staking/hidvaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugnkkyak8)
   
