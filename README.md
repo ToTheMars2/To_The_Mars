@@ -9,26 +9,22 @@
 
 
 ## Mainnet
-* [Lambda](https://explorer.tothemars.network/lambdavm/staking/lambvaloper1f4e4njyp65ruvgwrnk8qec6y2020thgdcaxw7j)
+* [Lambda](https://ping.pub/lambda/staking/lambvaloper1f4e4njyp65ruvgwrnk8qec6y2020thgdcaxw7j)
   
 * [Bostrom](https://ping.pub/bostrom/staking/bostromvaloper1n76f7tuq0kxf2ufjevlguqfc4xn4vfykflmhnn)
   
-* [Uptick](https://explorer.tothemars.network/uptick/staking/uptickvaloper1qc9lnl38sv2mxvjtfjs76894efjf09l230emsm)
+* [Uptick](https://ping.pub/uptick/staking/uptickvaloper1qc9lnl38sv2mxvjtfjs76894efjf09l230emsm)
   
-* [Gitopia](https://explorer.tothemars.network/gitopia/staking/gitopiavaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugna9kpy9)
-  
-* [Composable](https://explorer.tothemars.network/composable/staking/centaurivaloper1n76f7tuq0kxf2ufjevlguqfc4xn4vfykvm0lya)
+* [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugna9kpy9)
 
-* [Blockx](https://explorer.tothemars.network/Blockx/staking/blockxvaloper1h09jt0s2v70kx4jwn3afp635zna6ree7lr7xaj)
+* [Blockx](https://ping.pub/BlockX/staking/blockxvaloper1h09jt0s2v70kx4jwn3afp635zna6ree7lr7xaj)
 
 * [Kusama](https://telemetry.w3f.community/#/0xb0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe)
 
 ## Testnet
-* [Hypersing](https://explorer.tothemars.network/hypersign-testnet/staking/hidvaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugnkkyak8)
+* [Hypersing](https://explorer.hypersign.id/hypersign-prajna-testnet/staking/hidvaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugnkkyak8)
   
-* [Androma](https://explorer.bccnodes.com/androma/staking/andrvaloper1elzwme63j5dx3gfuw0mdefcy92l0nr7as9snza)
-  
-* [Lava](https://explorer.tothemars.network/lava-testnet/staking/lava@valoper193p69ej0tq6tz9z3mfz5m8nn0lrhj6qdn32d5g)
+* [Lava](https://lava.explorers.guru/validator/lava@valoper193p69ej0tq6tz9z3mfz5m8nn0lrhj6qdn32d5g)
   
 * [Namada](https://namada.explorers.guru/validators)
 
