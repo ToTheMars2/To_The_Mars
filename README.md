@@ -33,7 +33,7 @@
 
 
 ## Took part
-details>
+<details>
   <summary><b>Mainnets</b></summary>
   * Composable
   
