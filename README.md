@@ -61,4 +61,17 @@ Nois
 * [Namada](https://namada.explorers.guru/validators)
 
 * Wormholes
+
+* Gitopia
+  
+* Realio
+  
+* Androma
+  
+* Mande-Chain
+  
+* Uptick
+  
+* Mars
+  
 </details>
