@@ -25,7 +25,8 @@
 
 ## Testnet
 * [Hypersing](https://explorer.hypersign.id/hypersign-prajna-testnet/staking/hidvaloper1cfrzh87l2hceqdd3lj9h7f6makqa5ugnkkyak8)
-  
+
+* [Babylon](https://testnet.babylon.explorers.guru/validator/bbnvaloper12x6kw0rr65frz5tt68ltd4dew7ydzcqqwh6pkp)
   
 
 
